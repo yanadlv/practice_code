@@ -2,7 +2,7 @@
 
 [дз-1]()
 
-[дз-2]()
+[дз-2](https://github.com/yanadlv/practice_code/blob/main/EDA_сем%2Bдз.ipynb)
 
 [дз-3]()
 
